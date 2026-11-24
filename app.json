@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Lista de tarefas",
+    "slug": "lista-de-tarefas",
+    "version": "1.0.0",
+    "userInterfaceStyle": "dark",
+    "web": { "bundler": "metro" }
+  }
+}
